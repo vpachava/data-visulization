@@ -1,2 +1,2 @@
-# data-visulisation
-data visulisations
+# data-visulization
+data visulizations
